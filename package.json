@@ -1,0 +1,19 @@
+{
+  "name": "@srtipu5/jwt-auth",
+  "version": "1.0.1",
+  "description": "Node js package for authentication.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "keywords": [
+    "jwt",
+    "authentication",
+    "jwt authentication"
+  ],
+  "author": "srtipu5@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^9.0.2"
+  }
+}
